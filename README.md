@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parzival2108
-- 👀 I’m interested in Generative Models both Images and Text
+- 👀 I’m interested in Robotics + RL.
 - 🌱 I learnt adversarial and transformer networks
 - 💞️ I’m looking to collaborate on Generative Models
 - 📫 How to reach me parzival2108@gmail.com
